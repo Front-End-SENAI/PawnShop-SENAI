@@ -1,3 +1,3 @@
 # PawnShop-SENAI
 
-Construção de Site petshot cmo html
+Construção de Site petshot com html
